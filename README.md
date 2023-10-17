@@ -10,5 +10,5 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 3. reverseint - completed
 4. maxchar - completed
 5. fizzbuzz - completed
-6. chunk
+6. chunk - completed
 etc...
