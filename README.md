@@ -8,7 +8,7 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 1. reversestring - completed
 2. palindrome - completed
 3. reverseint - completed
-4. maxchar
-5. fizzbuzz
-6. chunk
+4. maxchar - completed
+5. fizzbuzz - completed
+6. chunk - completed
 etc...
