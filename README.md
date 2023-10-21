@@ -13,7 +13,7 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 6. chunk - completed
 7. anagrams - completed
 8. capitalize - completed
-9. steps
+9. steps - completed
 10. pyramid
 11. vowels
 12. matrix
