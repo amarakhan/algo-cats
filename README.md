@@ -11,4 +11,11 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 4. maxchar - completed
 5. fizzbuzz - completed
 6. chunk - completed
+7. anagrams - completed
+8. capitalize - completed
+9. steps - completed
+10. pyramid
+11. vowels
+12. matrix
+13. 
 etc...
