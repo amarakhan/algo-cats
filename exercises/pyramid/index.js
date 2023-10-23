@@ -13,7 +13,24 @@
 //       '  #  '
 //       ' ### '
 //       '#####'
+//   pyramid(4)
+//       '   #   '
+//       '  ###  '
+//       ' ##### '
+//       '#######'
 
-function pyramid(n) {}
+function pyramid(n) {
+    // pattern: 1r 1c, 2r 3c, 3r 5c, 4r 7c 
+    // let columns = (rows*2) - 1;
+    let spaces = n-1;
+    for (i=1; i<=n; i++) {
+        let str = '';
+        str += ' '.repeat(spaces);
+        str += '#'.repeat((i*2)-1);
+        str += ' '.repeat(spaces);
+        console.log(str);
+        spaces -= 1;
+    }
+}
 
 module.exports = pyramid;
